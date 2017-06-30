@@ -1,0 +1,15 @@
+.Task__container {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  align-items: center;
+}
+
+.Task__completed {
+  color: gray;
+}
+
+.TaskDetails_Task__title {
+  text-decoration: none;
+  color: inherit;
+}

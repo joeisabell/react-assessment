@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Not done with homework.",
+      "description": "I hate math.",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make the bed",
+      "description": "Bed is a mess",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "Clean Car",
+      "description": "",
+      "complete": false
+    }
+  ]
+}

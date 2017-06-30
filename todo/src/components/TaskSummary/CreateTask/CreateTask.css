@@ -1,0 +1,13 @@
+.CreateTask__container {
+  margin: auto;
+  margin-top: 20px;
+  max-width: 400px;
+}
+
+.CreateTask__input {
+  margin: 5px;
+  border-radius: 5px;
+  border-style: solid;
+  width: 60%;
+  height: 30px;
+}
